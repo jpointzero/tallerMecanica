@@ -1,0 +1,26 @@
+{
+  "name": "tallermecanica",
+  "version": "1.0.0",
+  "description": "aplicacion de taller de mecanica",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpointzero/tallerMecanica.git"
+  },
+  "author": "pointzero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpointzero/tallerMecanica/issues"
+  },
+  "homepage": "https://github.com/jpointzero/tallerMecanica#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongoose": "^4.4.14",
+    "router": "^1.1.4"
+  }
+}
